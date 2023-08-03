@@ -4,6 +4,8 @@ $wsdl = 'https://prueba.correoseguroandesscd.com.co/webService.php?wsdl'; //URL 
 $usuario = ""; //Credenciales Prueba Pagina Andes
 $password = ""; //Credenciales Prueba Pagina Andes
 
+//aqui nueva funcion
+
 $params = Array(
     "Arg1" => 5,
     "Arg2" => 10
